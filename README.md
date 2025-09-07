@@ -1,4 +1,9 @@
-#Hotel-Reservation-System
+HOTEL RESERVATION SYSTEM :-
+
+--> First creating a database in mysql commandLine 
+ -> Creating table
+ -> Inserting the values
+--> Connecting sql to intellijIDEA by using mysqlConnector 
 
  create database hotel_db;
  use hotel_db;
